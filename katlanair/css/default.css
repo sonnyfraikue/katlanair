@@ -1,0 +1,24 @@
+#contentHolder{
+	width:1024px;
+	min-height:500px;
+	text-align:center;
+	margin:auto;
+	background-color:#eee;
+	position:relative;
+}
+#contentHolder .header{
+	width:100%;
+	min-height:50px;
+	background-color:pink;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#contentHolder .footer{
+	width:100%;
+	min-height:50px;
+	background-color:pink;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+}
